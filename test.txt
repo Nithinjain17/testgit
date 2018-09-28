@@ -1,1 +1,3 @@
-this is my first text file in Git
+this is my first text file in Git.
+
+Making some changes here.
